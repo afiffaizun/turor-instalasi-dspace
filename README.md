@@ -9,6 +9,13 @@
 
 ---
 
+## Masuk ke mode wsl
+
+```bash
+sudo su
+cd ~
+```
+
 ## Step 1: Update dan Upgrade Sistem
 
 Pastikan sistem Anda sudah ter-update dengan versi terbaru:
@@ -28,8 +35,6 @@ sudo apt-get update && sudo apt-get upgrade -y
 
 ### 2.1 Install curl (jika belum terinstal)
 ```bash
-sudo su
-
 apt-get install curl
 ```
 

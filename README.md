@@ -12,6 +12,7 @@
 ## Masuk ke mode wsl
 
 ```bash
+wsl
 sudo su
 cd ~
 ```

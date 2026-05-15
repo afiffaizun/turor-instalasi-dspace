@@ -28,6 +28,8 @@ sudo apt-get update && sudo apt-get upgrade -y
 
 ### 2.1 Install curl (jika belum terinstal)
 ```bash
+sudo su
+
 apt-get install curl
 ```
 

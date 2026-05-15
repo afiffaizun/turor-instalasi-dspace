@@ -130,9 +130,9 @@ exit
 sudo su
 ```
 
-### 5.2 Set password untuk user root
+### 5.2 Lewati
 ```bash
-passwd
+
 ```
 
 ### 5.3 Tambahkan user DSpace
@@ -143,6 +143,8 @@ sudo useradd -m dspace
 ### 5.4 Set password untuk user dspace
 ```bash
 sudo passwd dspace
+
+Masukan password : dspace
 ```
 
 ### 5.5 Buat direktori DSpace
